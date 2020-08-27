@@ -1,4 +1,4 @@
-//Module6HWfile.cpp
+//arrayElementDeleter.cpp
 //Tom Bielawski
 //February 20, 2020
 //Program to remove an element chosen by the user from an array
